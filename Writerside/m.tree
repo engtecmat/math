@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                 name="math"
+                 start-page="Precalculus.topic">
+
+    <toc-element topic="Precalculus.topic">
+        <toc-element topic="System-of-Equations-and-Inequalities.topic"/>
+    </toc-element>
+</instance-profile>
