@@ -449,4 +449,157 @@
             </tr>
         </table>
     </chapter>
+    <chapter title="10.3.36" id="10_3_36">
+        <table style="none">
+            <tr>
+                <td colspan="2">
+                    <code-block lang="tex">
+                        \begin{cases}
+                        2x_1 + x_2 \qquad = 7 \\
+                        2x_1 - x_2 + x_3 = 6 \\
+                        3x_1 - 2x_2 + 4x_3 = 11 \\
+                        \end{cases}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Augmented Matrix
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        2 &  1 & 0  & 7  \\
+                        2 & -1 & 1  & 6  \\
+                        3 & -2 & 4  & 11 \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        \frac{R_1 - R_2 \to R_1}
+                        {R_3 - 2 \times R_2 \to R_3}
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        0  &  2 & -1 & 1  \\
+                        2  & -1 & 1  & 6  \\
+                        -1 &  0 & 2  & -1 \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        \frac {R_3  + 2 \times R_1 \to R_1} {R_2 + 2 \times R_3 \to R_2}
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        -1 &  4 & 0  & 1  \\
+                         0 & -1 & 5  & 4  \\
+                        -1 &  0 & 2  & -1 \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        R_1 - R_3 \to R_3
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        -1 &  4 &  0  & 1  \\
+                         0 & -1 &  5  & 4  \\
+                         0 &  4 & -2  & 2  \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        \frac{1}{2} \times R_3
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        -1 &  4 &  0  & 1  \\
+                         0 & -1 &  5  & 4  \\
+                         0 &  2 & -1  & 1  \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        \frac {1}{9} \times (R_3 + 2 \times R_2) \to R_3
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        -1 &  4 &  0  & 1  \\
+                         0 & -1 &  5  & 4  \\
+                         0 &  0 &  1  & 1  \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        \frac {R_1 + 4 \times R_2 -> R_1} {-1 \times (R_2 - 5 \times R_3) \to R_2}
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                        -1 &  0 &  20 & 17  \\
+                         0 &  1 &  0  & 1  \\
+                         0 &  0 &  1  & 1   \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <code-block lang="tex">
+                        {-1 \times (R_1 - 20 \times R_3) \to R_1}
+                    </code-block>
+                </td>
+                <td>
+                    <code-block lang="tex">
+                        \begin{bmatrix}
+                         1 &  0 &  0  & 3  \\
+                         0 &  1 &  0  & 1  \\
+                         0 &  0 &  1  & 1  \\
+                        \end{bmatrix}
+                    </code-block>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <code-block lang="tex">
+                        \begin{cases}
+                        x = 1 \\
+                        y = 0 \\
+                        z = 1 \\
+                        \end{cases}
+                    </code-block>
+                </td>
+            </tr>
+        </table>
+    </chapter>
 </topic>
