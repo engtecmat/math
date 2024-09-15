@@ -593,9 +593,9 @@
                 <td colspan="2">
                     <code-block lang="tex">
                         \begin{cases}
-                        x = 1 \\
-                        y = 0 \\
-                        z = 1 \\
+                        x_1 = 3 \\
+                        x_2 = 1 \\
+                        x_3 = 1 \\
                         \end{cases}
                     </code-block>
                 </td>
