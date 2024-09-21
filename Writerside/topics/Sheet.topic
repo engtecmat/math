@@ -5,17 +5,15 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Sheet" id="Sheet">
 
-        <control>Quadratic Formula</control>
-        <p>
-            if <math>ax^2 + bx + c = 0</math>, then
-        </p>
+        <control>Quadratic Formula</control><br/>
+        if <math>ax^2 + bx + c = 0</math>, then
         <code-block lang="tex">
             \qquad\qquad x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2}
         </code-block>
 
         <control>Quadratic Function</control>
         <code-block lang="tex">
-            \qquad\qquad f(x) = ax^2 + bx + c,\quad a \neq 0
+            \qquad\qquad f(x) = ax^2 + bx + c
         </code-block>
 
         <control>Cubic Function</control>
