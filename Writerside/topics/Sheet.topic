@@ -8,7 +8,7 @@
         <control>Quadratic Formula</control><br/>
         if <math>ax^2 + bx + c = 0</math>, then
         <code-block lang="tex">
-            \qquad\qquad x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2}
+            \qquad\qquad x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
         </code-block>
 
         <control>Quadratic Function</control>
