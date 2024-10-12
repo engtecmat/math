@@ -6,7 +6,7 @@
        title="Sheet" id="Sheet">
 
         <control>Quadratic Formula</control>
-        <p>if <math>ax^2 + bx + c = 0</math>, then</p>
+        <p>if <math>ax^2 + bx + c = 0</math>, then
         <code-block lang="tex">
             \qquad\qquad x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
         </code-block>
