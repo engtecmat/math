@@ -4,36 +4,39 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Sheet" id="Sheet">
+    <table>
+        <tr>
+            <td>Quadratic Formula</td>
+            <td>if
+                <math>ax^2 + bx + c = 0</math>
+                , then
+                <math> x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}</math>
+            </td>
+        </tr>
+    </table>
+    <control>Quadratic Function</control>
+    <code-block lang="tex">
+        \qquad\qquad f(x) = ax^2 + bx + c
+    </code-block>
 
-        <control>Quadratic Formula</control>
-        <p>if <math>ax^2 + bx + c = 0</math>, then
-        <code-block lang="tex">
-            \qquad\qquad x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
-        </code-block>
+    <control>Cubic Function</control>
+    <code-block lang="tex">
+        \qquad\qquad f(x) = ax^3 + bx^2 + cx + d
+    </code-block>
 
-        <control>Quadratic Function</control>
-        <code-block lang="tex">
-            \qquad\qquad f(x) = ax^2 + bx + c
-        </code-block>
+    <control>Quartic Function</control>
+    <code-block lang="tex">
+        \qquad\qquad f(x) = ax^4 + bx^3 + cx^2 + dx + e
+    </code-block>
 
-        <control>Cubic Function</control>
-        <code-block lang="tex">
-            \qquad\qquad f(x) = ax^3 + bx^2 + cx + d
-        </code-block>
+    <control>The Square of Difference</control>
+    <code-block lang="tex">
+        (a - b)^2 = a^2 -2ab + b^2
+    </code-block>
 
-        <control>Quartic Function</control>
-        <code-block lang="tex">
-            \qquad\qquad f(x) = ax^4 + bx^3 + cx^2 + dx + e
-        </code-block>
-
-        <control>The Square of Difference</control>
-        <code-block lang="tex">
-            (a - b)^2 = a^2 -2ab + b^2
-        </code-block>
-
-        <control>The Difference of Square</control>
-        <code-block lang="tex">
-            a^2 - b^2 = (a + b)(a - b)
-        </code-block>
+    <control>The Difference of Square</control>
+    <code-block lang="tex">
+        a^2 - b^2 = (a + b)(a - b)
+    </code-block>
 
 </topic>
