@@ -26,4 +26,14 @@
             \qquad\qquad f(x) = ax^4 + bx^3 + cx^2 + dx + e
         </code-block>
 
+        <control>The Square of Difference</control>
+        <code-block lang="tex">
+            (a - b)^2 = a^2 -2ab + b^2
+        </code-block>
+
+        <control>The Difference of Square</control>
+        <code-block lang="tex">
+            a^2 - b^2 = (a + b)(a - b)
+        </code-block>
+
 </topic>
