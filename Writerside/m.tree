@@ -7,6 +7,7 @@
                  start-page="Precalculus.topic">
 
     <toc-element topic="Sheet.topic"/>
+    <toc-element topic="T-Sheet.md"/>
     <toc-element topic="Precalculus.topic">
         <toc-element topic="System-of-Equations-and-Inequalities.topic">
             <toc-element topic="Matrices-and-System-of-Linear-Equations.topic"/>
