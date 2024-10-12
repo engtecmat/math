@@ -5,8 +5,8 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Sheet" id="Sheet">
 
-        <control>Quadratic Formula</control><br/>
-        if <math>ax^2 + bx + c = 0</math>, then
+        <control>Quadratic Formula</control>
+        <p>if <math>ax^2 + bx + c = 0</math>, then</p>
         <code-block lang="tex">
             \qquad\qquad x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
         </code-block>
