@@ -14,7 +14,7 @@
                     ax^2 + bx + c = 0
                 </code-block>
                 , then
-                <code-block>
+                <code-block lang="tex">
                     x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
                 </code-block>
             </td>
