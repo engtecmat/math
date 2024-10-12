@@ -9,9 +9,14 @@
         <tr>
             <td>Quadratic Formula</td>
             <td>if
-                <math>ax^2 + bx + c = 0</math>
+                <math></math>
+                <code-block lang="tex">
+                    ax^2 + bx + c = 0
+                </code-block>
                 , then
-                <math> x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}</math>
+                <code-block>
+                    x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
+                </code-block>
             </td>
         </tr>
     </table>
