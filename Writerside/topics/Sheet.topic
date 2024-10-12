@@ -4,45 +4,66 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Sheet" id="Sheet">
-    <math>ax^2 + bx + c = 0</math>
     <table>
+        <tr>
+            <td>Name</td>
+            <td>Description</td>
+        </tr>
         <tr>
             <td>Quadratic Formula</td>
             <td>if
-                <math></math>
                 <code-block lang="tex">
+                    \begin{equation}
                     ax^2 + bx + c = 0
+                    \end{equation}
                 </code-block>
-                , then
+                then
                 <code-block lang="tex">
+                    \begin{equation}
                     x = \frac {-b\quad \pm \quad\sqrt{b^2 - 4ac}}{2a}
+                    \end{equation}
+                </code-block>
+            </td>
+        </tr>
+        <tr>
+            <td>Quadratic Function</td>
+            <td>
+                <code-block lang="tex">
+                    f(x) = ax^2 + bx + c
+                </code-block>
+            </td>
+        </tr>
+        <tr>
+            <td>Cubic Function</td>
+            <td>
+                <code-block lang="tex">
+                    f(x) = ax^3 + bx^2 + cx + d
+                </code-block>
+            </td>
+        </tr>
+        <tr>
+            <td>Quartic Function</td>
+            <td>
+                <code-block lang="tex">
+                    f(x) = ax^4 + bx^3 + cx^2 + dx + e
+                </code-block>
+            </td>
+        </tr>
+        <tr>
+            <td>The Square of Difference</td>
+            <td>
+                <code-block lang="tex">
+                    (a - b)^2 = a^2 -2ab + b^2
+                </code-block>
+            </td>
+        </tr>
+        <tr>
+            <td>The Difference of Square</td>
+            <td>
+                <code-block lang="tex">
+                    a^2 - b^2 = (a + b)(a - b)
                 </code-block>
             </td>
         </tr>
     </table>
-    <control>Quadratic Function</control>
-    <code-block lang="tex">
-        \qquad\qquad f(x) = ax^2 + bx + c
-    </code-block>
-
-    <control>Cubic Function</control>
-    <code-block lang="tex">
-        \qquad\qquad f(x) = ax^3 + bx^2 + cx + d
-    </code-block>
-
-    <control>Quartic Function</control>
-    <code-block lang="tex">
-        \qquad\qquad f(x) = ax^4 + bx^3 + cx^2 + dx + e
-    </code-block>
-
-    <control>The Square of Difference</control>
-    <code-block lang="tex">
-        (a - b)^2 = a^2 -2ab + b^2
-    </code-block>
-
-    <control>The Difference of Square</control>
-    <code-block lang="tex">
-        a^2 - b^2 = (a + b)(a - b)
-    </code-block>
-
 </topic>
