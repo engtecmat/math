@@ -1,6 +1,8 @@
 # T-Sheet
 
 ## Quadratic Formula
+Pythagorean theorem: $x^2 + y^2 = z^2$
+
 
 if $ax^2 + bx + c = 0$, then
 
