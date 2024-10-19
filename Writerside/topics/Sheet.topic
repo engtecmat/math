@@ -65,5 +65,13 @@
                 </code-block>
             </td>
         </tr>
+        <tr>
+            <td>Distance Formula</td>
+            <td>
+                <code-block lang="tex">
+                    d = \sqrt {(x_2 - x_1)^2 + (y_2 - y_1)^2}
+                </code-block>
+            </td>
+        </tr>
     </table>
 </topic>
