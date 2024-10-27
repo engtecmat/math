@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Methods" id="Methods">
+
+    <chapter title="Methods for Solving Systems of Linear Equations"
+             id="methods_for_solving_systems_of_linear_equations">
+        <list type="decimal">
+            <li>Graphing
+            </li>
+            <li>Substitution
+            </li>
+            <li>Elimination
+            </li>
+            <li>Matrices
+            </li>
+            <li>Cramer's Rule (using determinants)
+            </li>
+            <li>Inverse Matrix Method
+            </li>
+        </list>
+    </chapter>
+</topic>
