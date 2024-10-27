@@ -81,5 +81,13 @@
                 </code-block>
             </td>
         </tr>
+        <tr>
+            <td>Slope-intercept Form</td>
+            <td>
+                <code-block lang="tex">
+                    y=mx+b
+                </code-block>
+            </td>
+        </tr>
     </table>
 </topic>
