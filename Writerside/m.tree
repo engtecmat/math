@@ -2,13 +2,9 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="m"
-                 name="math"
-                 start-page="Concepts.topic">
-
+<instance-profile id="m" name="math" start-page="Concepts.topic">
     <toc-element topic="Sheet.topic"/>
     <toc-element topic="Methods.topic"/>
-    <toc-element topic="Concepts.topic">
-    </toc-element>
+    <toc-element topic="Concepts.topic"/>
     <toc-element topic="Papers.topic"/>
 </instance-profile>
