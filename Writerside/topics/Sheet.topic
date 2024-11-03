@@ -4,7 +4,20 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Sheet" id="Sheet">
-    <table>
+    <chapter id="symbols" title="Symbols">
+        <table>
+            <tr>
+                <td>Symbol</td>
+                <td>Name</td>
+            </tr>
+            <tr>
+                <td><math>\Sigma</math></td>
+                <td>Sigma</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="Formulas and Functions" id="formulas_and_functions">
+        <table>
         <tr>
             <td>Name</td>
             <td>Description</td>
@@ -90,4 +103,6 @@
             </td>
         </tr>
     </table>
+    </chapter>
+
 </topic>
