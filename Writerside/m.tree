@@ -4,14 +4,11 @@
 
 <instance-profile id="m"
                  name="math"
-                 start-page="Precalculus.topic">
+                 start-page="Concepts.topic">
 
     <toc-element topic="Sheet.topic"/>
     <toc-element topic="Methods.topic"/>
-    <toc-element topic="Precalculus.topic">
-        <toc-element topic="System-of-Equations-and-Inequalities.topic">
-            <toc-element topic="Matrices-and-System-of-Linear-Equations.topic"/>
-        </toc-element>
+    <toc-element topic="Concepts.topic">
     </toc-element>
     <toc-element topic="Papers.topic"/>
 </instance-profile>

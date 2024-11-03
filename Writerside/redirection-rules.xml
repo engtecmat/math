@@ -10,4 +10,12 @@
         <description>Created after removal of "T-Sheet" from math</description>
         <accepts>T-Sheet.html</accepts>
     </rule>
+    <rule id="581f047a">
+        <description>Created after removal of "Matrices and System of Linear Equations" from math</description>
+        <accepts>Matrices-and-System-of-Linear-Equations.html</accepts>
+    </rule>
+    <rule id="31c1fb2f">
+        <description>Created after removal of "System of Equations and Inequalities" from math</description>
+        <accepts>System-of-Equations-and-Inequalities.html</accepts>
+    </rule>
 </rules>
