@@ -15,3 +15,9 @@
 
 To simplify the quotient $\frac{a + bi} {c + di}$, multiply the numerator and denominator by the complex conjugate of the denominator:
 $$\frac{a + bi}{c + di} = \left(\frac{a + bi}{c + di}\right)\left(\frac{c - di}{c - di}\right) = \frac{(ac + bd)(bc-ad)i}{c^2 + d^2}$$
+
+**SQUARE ROOTS OF NEGATIVE NUMBERS**
+
+If $-r$ is negative, then the **principal square root** of $-r$ is
+$$\sqrt{-r} = i\sqrt{r}$$
+The two square roots of $-r$ are $i\sqrt{r}$ and $-i\sqrt{r}$.
