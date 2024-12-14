@@ -4,6 +4,12 @@
 
 ### Complex Numbers
 
+**DEFINITION OF COMPLEX NUMBERS**
+
+A **complex** number is an expression of the form
+$$a + bi$$
+where $a$ and $b$ are real numbers and $i^2 = -1$. The **real part** of the complex number is a, and the **imaginary part** is $b$. Two complex numbers are equal if and only their real parts are equal and their imaginary parts are equal.
+
 **ADDING, SUBTRACTING, AND MULTIPLYING COMPLEX NUMBERS**
 
 | Definition                                                              | Description                                                                   |
