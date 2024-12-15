@@ -27,3 +27,11 @@ $$\frac{a + bi}{c + di} = \left(\frac{a + bi}{c + di}\right)\left(\frac{c - di}{
 If $-r$ is negative, then the **principal square root** of $-r$ is
 $$\sqrt{-r} = i\sqrt{r}$$
 The two square roots of $-r$ are $i\sqrt{r}$ and $-i\sqrt{r}$.
+###  Modeling with Equations
+
+**GUIDELINES FOR MODELING WITH EQUATIONS**
+
+1. **Identify the Variable.** Identify the quantity that problem asks you to find. This quantity can usually be determined by **a careful reading of the question** that is posed at the end of the problem. Then **introduce notation** for the variable (call it x or some other letter).
+2. **Translate from Words to Algebra.** Read each sentence in the problem again, and express all the quantities mentioned in the problem in terms of the variable you defined in Sept 1. To organize this information, it is sometimes helpful to **draw a diagram** or **make a table**.
+3. **Set Up the Model.** Find the crucial fact in the problem that gives a relationship between the expressions you listed in Step 2. **Set up an equation** (or **model**) that expresses this relationship.
+4. **Solve the Equation and Check Your Answer.** Solve the equation, check your answer, and express it as a sentence that answers the question posed in the problem.
