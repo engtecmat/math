@@ -35,3 +35,27 @@ The two square roots of $-r$ are $i\sqrt{r}$ and $-i\sqrt{r}$.
 2. **Translate from Words to Algebra.** Read each sentence in the problem again, and express all the quantities mentioned in the problem in terms of the variable you defined in Sept 1. To organize this information, it is sometimes helpful to **draw a diagram** or **make a table**.
 3. **Set Up the Model.** Find the crucial fact in the problem that gives a relationship between the expressions you listed in Step 2. **Set up an equation** (or **model**) that expresses this relationship.
 4. **Solve the Equation and Check Your Answer.** Solve the equation, check your answer, and express it as a sentence that answers the question posed in the problem.
+
+**Explain an Equation**
+
+When an equation models a real-world situation, it means that the equation represents  a relationship between quantities in that situation. The equation uses mathematical symbols and variables to describe how those quantities are related. Solving the equation can help use understand or predict the behavior of the real-world system.
+
+Example:
+
+Let's say you're running a lemonade stand. You know that each glass of lemonade costs you $0.50 to make, and you sell each glass for $1.50. You want to figure out how many glasses of lemonade you need to sell to make a profit of $20.
+
+You can model this situation with equation:
+
+`Profit = (Selling price per glass - Cost per glass) * Number of glasses sold`
+
+Substituting the values:
+
+`$20 = ($1.50 - $0.50) * Number of glasses sold`
+
+Solve for **the number of glasses sold** gives you the answer to your real-world problem.
+
+Key points to emphasize:
+
+- Equations are tools to represent and solve real-world problems.
+- They can involve multiple variable.
+- Solving an equation may not always directly give the final answer to the problem.
