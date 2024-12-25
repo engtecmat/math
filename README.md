@@ -59,3 +59,16 @@ Key points to emphasize:
 - Equations are tools to represent and solve real-world problems.
 - They can involve multiple variable.
 - Solving an equation may not always directly give the final answer to the problem.
+### Inequalities
+
+**RULES FOR INEQUALITIES**
+
+| Rule                                                                                     | Description                                                                                                                      |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1. $A \leq B \Leftrightarrow A + C \leq B + C$                                           | **Adding** the same quantity to each side of an inequality gives an equivalent inequality.                                       |
+| 2. $A \leq B \Leftrightarrow A - C \leq B -C$                                            | **Subtracting** the same quantity from each side of an inequality gives an equivalent inequality.                                |
+| 3. If $C > 0$, then $A \leq B \Leftrightarrow CA \leq CB$                                | **Multiplying** each side of an inequality by the same *positive* quantity gives an equivalent inequality.                       |
+| 4. If $C < 0$, then $A \leq B \Leftrightarrow CA \geq CB$                                | **Multiplying** each side of an inequality by the same *negative* quantity *reverses the direction* of the inequality.           |
+| 5. If $A > 0$, and $B > 0$, then $A \leq B \Leftrightarrow \frac{1}{A} \geq \frac{1}{B}$ | **Taking reciprocals** of each side of an inequality involving *positive* quantities *reverses the direction* of the inequality. |
+| 6. If $A \leq B$ and $C \leq D$, then $A + C \leq B + D$                                 | Inequalities can be added.                                                                                                       |
+| 7. If $A \leq B$ and $B \leq C$, then $A \leq C$                                         | Inequality is transitive.                                                                                                        |

@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f30e081e9b51d6e",
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,6 +164,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c11459c4d7bd5038",
-  "lastOpenFiles": []
+  "active": "6cc4495b51b27036",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
