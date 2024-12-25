@@ -72,3 +72,13 @@ Key points to emphasize:
 | 5. If $A > 0$, and $B > 0$, then $A \leq B \Leftrightarrow \frac{1}{A} \geq \frac{1}{B}$ | **Taking reciprocals** of each side of an inequality involving *positive* quantities *reverses the direction* of the inequality. |
 | 6. If $A \leq B$ and $C \leq D$, then $A + C \leq B + D$                                 | Inequalities can be added.                                                                                                       |
 | 7. If $A \leq B$ and $B \leq C$, then $A \leq C$                                         | Inequality is transitive.                                                                                                        |
+**THE SIGN OF A PRODUCT OR QUOTIENT**
+- If a product or a quotient has an *even* number of *negative* factors, then its value is *positive*.
+- If a product or a quotient has an *odd* number of *negative* factors, then its value is *negative*.
+
+**GUIDELINES FOR SOLVING NONLINEAR INEQUALITIES**
+1. **Move All Terms to One Side.** If necessary, rewrite the inequality so that all nonzero terms appear on one side of the inequality sign. If the nonzero side of the inequality involves quotients, bring them to a common denominator.
+2. **Factor.** Factor the nonzero side of the inequality.
+3. **Find the Intervals.** Determine the values for which each factor is zero. These numbers will divide the real line into intervals. List the intervals that are determined by these numbers.
+4. **Make a Table or Diagram.** Use **test values** to make a table or diagram of the signs of each factor on each interval. In the last row of the table determine the sign of the product (or quotient) of these factors.
+5. **Solve.** Use the sign table to find the intervals on which the inequality is satisfied. Check whether the **endpoints** of these intervals satisfy the inequality. (This may happen if the inequality involves $\leq$ or $\geq$.)
