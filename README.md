@@ -82,3 +82,12 @@ Key points to emphasize:
 3. **Find the Intervals.** Determine the values for which each factor is zero. These numbers will divide the real line into intervals. List the intervals that are determined by these numbers.
 4. **Make a Table or Diagram.** Use **test values** to make a table or diagram of the signs of each factor on each interval. In the last row of the table determine the sign of the product (or quotient) of these factors.
 5. **Solve.** Use the sign table to find the intervals on which the inequality is satisfied. Check whether the **endpoints** of these intervals satisfy the inequality. (This may happen if the inequality involves $\leq$ or $\geq$.)
+
+**PROPERTIES OF ABSOLUTE VALUE INEQUALITIES**
+
+| Inequality              | Equivalent form           | Graph                      |
+| ----------------------- | ------------------------- | -------------------------- |
+| 1. $\mid {x} \mid < c$  | $-c < x < c$              | ![[images/math_00001.png]] |
+| 2. $\mid x \mid \leq c$ | $-c \leq x \leq c$        | ![[images/math_00002.png]] |
+| 3. $\mid x \mid > c$    | $x < -c$ or $c < x$       | ![[images/math_00003.png]] |
+| 4. $\mid x \mid \geq c$ | $x \geq -c$ or $c \leq x$ | ![[images/math_00004.png]] |

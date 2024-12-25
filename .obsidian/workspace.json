@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f30e081e9b51d6e",
@@ -151,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cc4495b51b27036",
+  "active": "1a6da4f3629c0459",
   "lastOpenFiles": [
+    "images/math_00004.png",
+    "images/math_00003.png",
+    "images/math_00002.png",
+    "images",
+    "math_00001 1.png",
+    "images/math_00001.png",
     "README.md"
   ]
 }
