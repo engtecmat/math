@@ -91,3 +91,25 @@ Key points to emphasize:
 | 2. $\mid x \mid \leq c$ | $-c \leq x \leq c$        | ![](images/math_00002.png) |
 | 3. $\mid x \mid > c$    | $x < -c$ or $c < x$       | ![](images/math_00003.png) |
 | 4. $\mid x \mid \geq c$ | $x \leq -c$ or $c \leq x$ | ![](images/math_00004.png) |
+## Modeling
+
+```mermaid
+mindmap
+  root((Modeling Tools))
+	  General-purpose mathematical software
+		  MATLAB
+		  Python with NumPy and SciPy
+		  Maple
+	  Specialized modeling software
+		  GAMS
+		  Simulink
+		  AnyLogic
+	  Open-source tools:
+		  Octave
+		  R
+		  Julia
+
+
+```
+
+
