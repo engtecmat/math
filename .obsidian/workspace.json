@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb33a27a205a0a9",
+        "id": "3bccd271812f9ea5",
         "type": "tabs",
         "children": [
           {
-            "id": "6a94d47d895b3c03",
+            "id": "3b744957c8ba640b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a94d47d895b3c03",
+  "active": "3b744957c8ba640b",
   "lastOpenFiles": [
     "Precalculus_Mathematics_for_Calculus_Seventh_Edition_by_James_Stewart/Precalculus_Mathematics_for_Calculus_Seventh_Edition_by_James_Stewart_Exercises.md",
     "images/math_00006.png",
