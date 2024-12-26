@@ -26,44 +26,45 @@ Yes, ($-\infty$, -1) and (2, $\infty$), \[1, 2)
 
 **6.** (a) Divide by 3 (b) Add 2 (c) Rewrite as $-8 \leq 3x + 2 \leq 8$
 
-**7.** $\lbrace \frac{5}{6}, 1, \sqrt{5}, 3, 5 \rbrace$
+**7.** $\bigg\lbrace \frac{5}{6}, 1, \sqrt{5}, 3, 5 \bigg\rbrace$
+
 $$\begin{aligned}
    -2 + 3x \geq \frac{1}{3} \\
    3x \geq \frac{1}{3} + 2 \\
    3x \geq \frac{7}{3} \\
    x \geq \frac{7}{9}
    \end{aligned}
-   $$
+$$
 
 
-**8.** $\lbrace -5, -1, 0\rbrace$
+**8.** $\bigg\lbrace -5, -1, 0\bigg\rbrace$
 
 | $1 - 2x \geq 5x$     |                            |
 | -------------------- | -------------------------- |
 | $-7x \geq -1$        | Subtract $5x$ and $1$      |
-| $x \leq \frac{1}{7}$ | Multiply by -$\frac{1}{7}$ |
+| $x \leq \frac{1}{7}$ | Multiply by $-\frac{1}{7}$ |
 
-**9.** $\lbrace 3, 5\rbrace$
+**9.** $\bigg\lbrace 3, 5\bigg\rbrace$
 
 | $1 < 2x - 4 \leq 7$                 |             |
 | ----------------------------------- | ----------- |
 | $5 < 2x \leq 11$                    | Add $4$     |
 | $\frac{5}{2} < x \leq \frac{11}{2}$ | Divide by 2 |
 
-**10.** $\lbrace\sqrt{5}, 3, 5, \rbrace$
+**10.** $\bigg\lbrace\sqrt{5}, 3, 5, \bigg\rbrace$
 
 | $-2 \leq 3-x < 2$ |                  |
 | ----------------- | ---------------- |
 | $-5 \leq -x < -1$ | Subtract $3$     |
 | $5 \geq x > 1$    | Multiply by $-1$ |
 
-**11.** $\lbrace-5, -1, \sqrt{5}, 3, 5\rbrace$
+**11.** $\bigg\lbrace-5, -1, \sqrt{5}, 3, 5\bigg\rbrace$
 
 | $\frac{1}{x} \leq \frac{1}{2}$ |                  |
 | ------------------------------ | ---------------- |
 | $2 \leq x$                     | Multiply by $2x$ |
 
-**12.** $\left\{-1, 0, \frac{2}{3}, \frac{5}{6}, 1\right\}$
+**12.** $\bigg\lbrace -1, 0, \frac{2}{3}, \frac{5}{6}, 1 \bigg\rbrace\}$
 
 | $x^2 + 2 < 4$      |                                    |
 | ------------------ | ---------------------------------- |
