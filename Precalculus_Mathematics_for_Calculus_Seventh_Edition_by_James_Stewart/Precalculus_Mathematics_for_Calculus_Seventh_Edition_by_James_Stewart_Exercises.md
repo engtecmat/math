@@ -6,6 +6,7 @@
 | ------------------------------------------------------ | --------------- | ------ | ------------ |
 | **Sign of $x + 1$**<br>**Sign of $x - 2$**             | -<br>-          | +<br>- | +<br>+       |
 | <font color="red">**Sign of $\frac{x+1}{x-2}$**</font> | +               | -      | +            |
+
 Yes, ($-\infty$, -1) and (2, $\infty$), \[1, 2)
 **3.** (a) \[-3, 3\] (b)($-\infty$, -3], \[3, $\infty$) 
 **4.**(a) $\mid x \mid < 3$ (b) $\mid x \mid > 3$
@@ -16,8 +17,11 @@ Yes, ($-\infty$, -1) and (2, $\infty$), \[1, 2)
 | ------------ | --------------- | ------- | ------------- |
 | $x$<br>$x+1$ | -<br>-          | -<br>+  | +<br>+        |
 | $x(x+1)$     | +               | -       | +             |
+
 (b) No, $x = 5$ satisfies the inequality $x(x + 1) > 5$, but does not satisfy x > 5. Therefore, if $x(x + 1) > 5$, it does not necessarily follow that $x > 5$.
-**6.** (a) Divide by 3 (b) Add 2 (c) Rewrite as $-8 \leq 3x + 2 \leq 8$ 
+
+**6.** (a) Divide by 3 (b) Add 2 (c) Rewrite as $-8 \leq 3x + 2 \leq 8$
+
 **7.** $\left\{ \frac{5}{6}, 1, \sqrt{5}, 3, 5\right\}$
 $$\begin{aligned}
    -2 + 3x \geq \frac{1}{3} \\
@@ -34,23 +38,27 @@ $$\begin{aligned}
 | -------------------- | -------------------------- |
 | $-7x \geq -1$        | Subtract $5x$ and $1$      |
 | $x \leq \frac{1}{7}$ | Multiply by -$\frac{1}{7}$ |
+
 **9.** $\left\{ 3, 5\right\}$
 
 | $1 < 2x - 4 \leq 7$                 |             |
 | ----------------------------------- | ----------- |
 | $5 < 2x \leq 11$                    | Add $4$     |
 | $\frac{5}{2} < x \leq \frac{11}{2}$ | Divide by 2 |
+
 **10.** $\left\{\sqrt{5}, 3, 5, \right\}$
 
 | $-2 \leq 3-x < 2$ |                  |
 | ----------------- | ---------------- |
 | $-5 \leq -x < -1$ | Subtract $3$     |
 | $5 \geq x > 1$    | Multiply by $-1$ |
+
 **11.** $\left\{-5, -1, \sqrt{5}, 3, 5\right\}$
 
 | $\frac{1}{x} \leq \frac{1}{2}$ |                  |
 | ------------------------------ | ---------------- |
 | $2 \leq x$                     | Multiply by $2x$ |
+
 **12.** $\left\{-1, 0, \frac{2}{3}, \frac{5}{6}, 1\right\}$
 
 | $x^2 + 2 < 4$      |                                    |
