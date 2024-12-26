@@ -94,7 +94,7 @@ $$
 | $2x > 8$     | Add $5$       |
 | $x > 4$      | Divide by $2$ |
 
-![](images/math_00007.png)
+![](../images/math_00007.png)
 
 **16.** ($-\infty$, -2) 
 
@@ -104,7 +104,7 @@ $$
 | $3x < -6$     | Subtract $11$ |
 | $x < -2$      | Divide by $3$ |
 
-![](images/math_00008.png)
+![](../images/math_00008.png)
 
 **17.** ($-\infty$, 2\]
 
@@ -114,7 +114,7 @@ $$
 | $-x \geq -2$   | Subtract $7$  |
 | $x \leq 2$     | Multiply $-1$ |
 
-![](images/math_00009.png)
+![](../images/math_00009.png)
 
 **18.** \[7, $\infty$) 
 
@@ -124,7 +124,7 @@ $$
 | $-3x \leq -21$    | Subtract $5$   |
 | $x \geq 7$        | Divide by $-3$ |
 
-![](images/math_00010.png)
+![](../images/math_00010.png)
 
 **19.** ($-\infty$, $-\frac{1}{2}$) 
 
@@ -134,7 +134,7 @@ $$
 | $2x < -1$          | Subtract $1$  |
 | $x < -\frac{1}{2}$ | Divide by $2$ |
 
-![](images/math_00011.png)
+![](../images/math_00011.png)
 
 **20.** ($-\infty$, $\frac{5}{2}$)
 
@@ -143,5 +143,5 @@ $$
 | $2x < 5$          | Add $2x$      |
 | $x < \frac{5}{2}$ | Divide by $2$ |
 
-![](images/math_00012.png)
+![](../images/math_00012.png)
 
