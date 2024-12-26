@@ -1,5 +1,6 @@
 # 1.8
 **1.** (a) $<$, (b) $\leq$, (c)$\leq$ (d)$>$
+
 **2.** -1, 2
 
 | Interval                                               | ($-\infty$, -1) | (1,2)  | (2,$\infty$) |
@@ -8,8 +9,11 @@
 | <font color="red">**Sign of $\frac{x+1}{x-2}$**</font> | +               | -      | +            |
 
 Yes, ($-\infty$, -1) and (2, $\infty$), \[1, 2)
+
 **3.** (a) \[-3, 3\] (b)($-\infty$, -3], \[3, $\infty$) 
+
 **4.**(a) $\mid x \mid < 3$ (b) $\mid x \mid > 3$
+
 **5.** 
 (a) No, the solutions are ($-\infty$, -1) $\cup$ (0, $\infty$), x can be negative. 
 
