@@ -180,8 +180,9 @@ $$
 The graph of every **linear equation**
 
 $$
-Ax + By + C = 0 \qquad (A, B not both zero)
+Ax + By + C = 0 \qquad \text{(A, B not both zero)}
 $$
+
 
 is a line. Conversely, every line is the graph of a linear equation.
 ## Modeling Tools

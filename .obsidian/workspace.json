@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "679af5c4cf73701d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precalculus_Mathematics_for_Calculus_Seventh_Edition_by_James_Stewart/Precalculus_Mathematics_for_Calculus_Seventh_Edition_by_James_Stewart_Exercises.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Precalculus_Mathematics_for_Calculus_Seventh_Edition_by_James_Stewart_Exercises"
+            }
           }
         ]
       }
