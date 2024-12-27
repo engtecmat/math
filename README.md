@@ -122,6 +122,17 @@ The **graph** of an equation in $x$ and $y$ is the set of all points $(x, y)$ in
 | ***x*-intercepts:**<br>The *x*-coordinates of points where the graph of an equation intersects the x-axis | Ser y = 0 and solve for x | ![](images/math_00017.png)  |
 | ***y*-intercepts:**<br>The *y*-coordinates of points where the graph of equation intersects the y-axis    | Set x = 0 and solve for y | ![](images/math_00018.png)  |
 
+**EQUATION OF A CIRCLE**
+
+An equation of the circle with center(*h, k*) and radius *r* is
+$$
+(x - h)^2 + (y - k)^2 = r^2
+$$
+This is called the **standard form** for the equation of the circle. If the center of the circle is the origin(0, 0), then the equation is
+$$
+x^2 + y^2 = r^2
+$$
+
 ## Modeling Tools
 
 ```mermaid
