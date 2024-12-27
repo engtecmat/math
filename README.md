@@ -91,17 +91,6 @@ Key points to emphasize:
 | 2. $\mid x \mid \leq c$ | $-c \leq x \leq c$        | ![](images/math_00002.png) |
 | 3. $\mid x \mid > c$    | $x < -c$ or $c < x$       | ![](images/math_00003.png) |
 | 4. $\mid x \mid \geq c$ | $x \leq -c$ or $c \leq x$ | ![](images/math_00004.png) |
-
-### Lines
-
-**SLOPE OF A LINE**
-
-The **slope** *m* of a nonvertical line that passes through the points $A(x_1, y_1)$  and $B(x_2, y_2)$ is
-
-$$
-m = \frac{rise}{run} = \frac{y_2 - y_1}{x_2 - x_1}
-$$
-The slope of a vertical line is not defined.
 ### The Coordinate Plane; Graphs of Equations; Circles
 
 **DISTANCE FORMULA**
@@ -154,6 +143,17 @@ $$
 | **With respect to the y-axis** | Replace x by -x. The resulting equation is equivalent to the original one.             | ![](images/math_00020.png) | Graph is unchanged when reflected about the y-axis     |
 | **With respect to the origin** | Replace x by -x and y by -y. The resulting equation is equivalent to the original one. | ![](images/math_00021.png) | Graph is unchanged when rotated 180° about the origin. |
 
+### Lines
+
+**SLOPE OF A LINE**
+
+The **slope** *m* of a nonvertical line that passes through the points $A(x_1, y_1)$  and $B(x_2, y_2)$ is
+
+$$
+m = \frac{rise}{run} = \frac{y_2 - y_1}{x_2 - x_1}
+$$
+
+The slope of a vertical line is not defined.
 ## Modeling Tools
 
 ```mermaid
