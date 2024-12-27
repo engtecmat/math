@@ -113,6 +113,15 @@ $$
 **THE GRAPH OF AN EQUATION**
 
 The **graph** of an equation in $x$ and $y$ is the set of all points $(x, y)$ in the coordinate plane that satisfy the equation.
+
+**DEFINITION OF INTERCEPTS**
+
+
+| Intercepts                                                                                                | How to find them          | Where they are on the graph   |
+| --------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------- |
+| ***x*-intercepts:**<br>The *x*-coordinates of points where the graph of an equation intersects the x-axis | Ser y = 0 and solve for x | ![](../images/math_00017.png) |
+| ***y*-intercepts:**<br>The *y*-coordinates of points where the graph of equation intersects the y-axis    | Set x = 0 and solve for y | ![](../images/math_00018.png) |
+
 ## Modeling Tools
 
 ```mermaid
