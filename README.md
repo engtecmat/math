@@ -136,6 +136,14 @@ $$
 x^2 + y^2 = r^2
 $$
 
+**TYPES OF SYMMETRY**
+
+| Symmetry                       | Test                                                                                   | Graph                      | Property of Graph                                      |
+| ------------------------------ | -------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------ |
+| **With respect to the x-axis** | Replace y by -y. The resulting equation is equivalent to the original one.             | ![](images/math_00019.png) | Graph is unchanged when reflected about the x-axis.    |
+| **With respect to the y-axis** | Replace x by -x. The resulting equation is equivalent to the original one.             | ![](images/math_00020.png) | Graph is unchanged when reflected about the y-axis     |
+| **With respect to the origin** | Replace x by -x and y by -y. The resulting equation is equivalent to the original one. | ![](images/math_00021.png) | Graph is unchanged when rotated 180° about the origin. |
+
 ## Modeling Tools
 
 ```mermaid
