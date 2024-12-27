@@ -198,6 +198,12 @@ $$
 m_2 = - \frac{1}{m_1}
 $$
 
+### Solving Equations and Inequalities Graphically
+
+**SOLVING AN EQUATION**
+
+![](images/math_00022.png)
+
 ## Modeling Tools
 
 ```mermaid
