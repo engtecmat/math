@@ -174,6 +174,16 @@ $$
 **VERTICAL AND HORIZONTAL LINES**
 - An equation of the vertical line through (a, b) is x = a.
 - An equation of the horizontal line through (a, b) is y = b.
+
+**GENERAL EQUATION OF A LINE**
+
+The graph of every **linear equation**
+
+$$
+Ax + By + C = 0 \qquad (A, B not both zero)
+$$
+
+is a line. Conversely, every line is the graph of a linear equation.
 ## Modeling Tools
 
 ```mermaid
