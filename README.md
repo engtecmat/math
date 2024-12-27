@@ -185,6 +185,10 @@ $$
 
 
 is a line. Conversely, every line is the graph of a linear equation.
+
+**PARALLEL LINES**
+
+Two nonvertical lines are parallel if and only if they have the same slope.
 ## Modeling Tools
 
 ```mermaid
