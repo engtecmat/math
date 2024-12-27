@@ -163,6 +163,14 @@ $$
 y - y_1 = m(x - x_1)
 $$
 
+**SLOPE-INTERCEPT FORM OF THE EQUATION OF A LINE**
+
+An equation of the line that has slope m and y-intercept b is
+
+$$
+y = mx + b
+$$
+
 ## Modeling Tools
 
 ```mermaid
