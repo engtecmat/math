@@ -154,6 +154,15 @@ m = \frac{rise}{run} = \frac{y_2 - y_1}{x_2 - x_1}
 $$
 
 The slope of a vertical line is not defined.
+
+**POINT-SLOPE FORM OF THE EQUATION OF A LINE**
+
+An equation of the line that passes through the point $(x_1, y_1)$ and has slope m is
+
+$$
+y - y_1 = m(x - x_1)
+$$
+
 ## Modeling Tools
 
 ```mermaid
