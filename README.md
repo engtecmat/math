@@ -189,6 +189,15 @@ is a line. Conversely, every line is the graph of a linear equation.
 **PARALLEL LINES**
 
 Two nonvertical lines are parallel if and only if they have the same slope.
+
+**PERPENDICULAR LINES**
+
+Two lines with slopes $m_1$ and $m_2$ are perpendicular if and only if $m_1m_2 = -1$, that is, their slopes are negative reciprocals:
+
+$$
+m_2 = - \frac{1}{m_1}
+$$
+
 ## Modeling Tools
 
 ```mermaid
