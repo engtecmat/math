@@ -171,6 +171,9 @@ $$
 y = mx + b
 $$
 
+**VERTICAL AND HORIZONTAL LINES**
+- An equation of the vertical line through (a, b) is x = a.
+- An equation of the horizontal line through (a, b) is y = b.
 ## Modeling Tools
 
 ```mermaid
