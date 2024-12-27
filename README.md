@@ -110,6 +110,9 @@ $$
 \bigg( \frac{(x_1 + x_2)}{2}, \frac{(y_1 + y_2)}{2} \bigg)
 $$
 
+**THE GRAPH OF AN EQUATION**
+
+The **graph** of an equation in $x$ and $y$ is the set of all points $(x, y)$ in the coordinate plane that satisfy the equation.
 ## Modeling Tools
 
 ```mermaid
