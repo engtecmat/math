@@ -91,6 +91,25 @@ Key points to emphasize:
 | 2. $\mid x \mid \leq c$ | $-c \leq x \leq c$        | ![](images/math_00002.png) |
 | 3. $\mid x \mid > c$    | $x < -c$ or $c < x$       | ![](images/math_00003.png) |
 | 4. $\mid x \mid \geq c$ | $x \leq -c$ or $c \leq x$ | ![](images/math_00004.png) |
+
+### The Coordinate Plane; Graphs of Equations; Circles
+
+**DISTANCE FORMULA**
+
+The distance between the points $A(x_1, y_1)$ and $B(x_2, y_2)$ in the plane is
+
+$$
+d(A, B) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+$$
+
+**MIDPOINT FORMULA**
+
+The midpoint of the line segment from $A(x_1, y_1)$ to $B(x_2, y_2)$ is
+
+$$
+\bigg( \frac{(x_1 + x_2)}{2}, \frac{(y_1 + y_2)}{2} \bigg)
+$$
+
 ## Modeling Tools
 
 ```mermaid
