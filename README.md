@@ -214,6 +214,9 @@ $$
 
 ![](images/math_00024.png)
 
+**INVERSE VARIATION**
+
+![](images/math_00025.png)
 ## Modeling Tools
 
 ```mermaid
