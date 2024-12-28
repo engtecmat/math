@@ -204,6 +204,10 @@ $$
 
 ![](images/math_00022.png)
 
+**SOLVE AN INEQUALITY**
+
+![](images/math_00023.png)
+
 ## Modeling Tools
 
 ```mermaid
