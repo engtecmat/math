@@ -2,6 +2,31 @@
 
 ## Fundamentals
 
+### Real Numbers
+
+**PROPERTIES of REAL NUMBERS**
+
+![](images/math_00026.png)
+
+**PROPERTIES OF NEGATIVES**
+
+![](images/math_00027.png)
+
+**PROPERTIES OF FRACTIONS**
+
+![](images/math_00028.png)
+
+**DEFINITION OF ABSOLUTE VALUE**
+
+![](images/math_00029.png)
+
+**PROPERTIES OF ABSOLUTE VALUE**
+
+![](images/math_00030.png)
+
+**DISTANCE BETWEEN POINTS ON THE REAL LINE**
+
+![](images/math_00031.png)
 ### Complex Numbers
 
 **DEFINITION OF COMPLEX NUMBERS**
