@@ -208,6 +208,12 @@ $$
 
 ![](images/math_00023.png)
 
+### Modeling Variation
+
+**DIRET VARIATION**
+
+![](images/math_00024.png)
+
 ## Modeling Tools
 
 ```mermaid
